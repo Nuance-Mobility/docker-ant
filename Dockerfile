@@ -11,5 +11,5 @@ VOLUME      /project
 
 WORKDIR     /project
 
-ENTRYPOINT  ['/opt/ant/bin/ant']
-CMD         ['-help']
+ENTRYPOINT  [ "/opt/ant/bin/ant"]
+CMD         [ "-help" ]
