@@ -1,4 +1,5 @@
 FROM        java:8
+MAINTAINER  Brice Argenson <brice.argenson@nuance.com>
 
 ENV         ANT_VERSION 1.9.5
 
